@@ -3,6 +3,24 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    gap: 100px;
+    margin-left: 300px;
+    padding-top: 40px;
+}
+
+.header{
+    height: 150x;
+    text-align: center;
+}
+
+.setUp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-left: 150px;
+    
 }
 
 .copyright{
@@ -38,5 +56,6 @@ a{
     user-select: none;
     border: 1px solid #ddd;
     text-align: center;
-}
+} 
+
 
